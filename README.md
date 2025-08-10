@@ -32,6 +32,7 @@ I believe that **purposeful technology can change lives** whether through smarte
 - ✅ **Microsoft 365 Apps** (*Microsoft x Trainocate via Sri Lankanization*)
 - 🎖️ **Python & System Administration** (*University of Moratuwa + Microsoft Learn*)
 - 📚 **LinkedIn Learning**: AI, Cloud, Soft Skills (*public speaking, programmable messaging...*)
+- 🎖️ **Cisco certified Python Data Scientist** (*Cisco Networking Academy*)
 - 🌍 GitHub Education Pack Recipient 
 
 ---
