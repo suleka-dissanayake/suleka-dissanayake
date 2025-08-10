@@ -39,7 +39,8 @@ I believe that **purposeful technology can change lives** whether through smarte
 
 ## 📫 Connect with Me
 - 💼 [LinkedIn] (https://www.linkedin.com/in/suleka-dissanayake)
-- 🎯 [GitHub Projects] (https://github.com/suleka2003)
+- 🎯 [GitHub Projects] (https://github.com/suleka-dissanayake)
+- 🎖️ [Credly] (https://www.credly.com/users/suleka-dissanayake)
 
 ---
 
