@@ -18,7 +18,7 @@
 | **AIESEC** | oGT (Front Office) + TM (Back Office) | Talent development, multicultural leadership |
 | **ZeroPlastic** |Hero Volunteer (passed 1000 points) | Eco-conscious tech campaigns & awareness |
 | **GitHub** | Campus Expert Applicant | Community building through open-source |
-| **Postman** | Student Expert | Professioning API Literacy |
+| **Postman** | Student Expert Badge | Professioning API Literacy |
 
 ---
 
@@ -35,7 +35,7 @@ I believe that **purposeful technology can change lives** whether through smarte
 - 📚 **LinkedIn Learning**: AI, Cloud, Soft Skills (*public speaking, programmable messaging...*)
 - 🎖️ **Cisco certified Python Data Scientist** (*Cisco Networking Academy*)
 - 🌍 GitHub Education Pack Recipient
-- 🎖️ **Certified Postman Student Expert**
+- 🎖️ **Certified Postman Student Expert Badge**
 
 ---
 
