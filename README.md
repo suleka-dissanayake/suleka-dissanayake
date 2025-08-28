@@ -16,7 +16,7 @@
 |--------------|------|-------|
 | **IEEE** | Global Membership + Logistics Team (Xtreme) | Tech event planning, teamwork, innovation |
 | **AIESEC** | oGT (Front Office) + TM (Back Office) | Talent development, multicultural leadership |
-| **ZeroPlastict** |Hero Volunteer (passed 1000 points) | Eco-conscious tech campaigns & awareness |
+| **ZeroPlastic** |Hero Volunteer (passed 1000 points) | Eco-conscious tech campaigns & awareness |
 | **GitHub** | Campus Expert Applicant | Community building through open-source |
 | **Postman** | Student Expert | Professioning API Literacy |
 
