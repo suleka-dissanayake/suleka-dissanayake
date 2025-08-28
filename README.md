@@ -14,10 +14,11 @@
 ## 🌍 My Impact Beyond the Classroom
 | Organization | Role | Focus |
 |--------------|------|-------|
-| **IEEE Global** | Global Membership + Logistics Team (Xtreme) | Tech event planning, teamwork, innovation |
-| **AIESEC Sri Lanka** | oGT (Front Office) + TM (Back Office) | Talent development, multicultural leadership |
-| **ZeroPlastic Movement** |Hero Volunteer (passed 1000 points) | Eco-conscious tech campaigns & awareness |
-| **GitHub Education** | Campus Expert Applicant | Community building through open-source |
+| **IEEE** | Global Membership + Logistics Team (Xtreme) | Tech event planning, teamwork, innovation |
+| **AIESEC** | oGT (Front Office) + TM (Back Office) | Talent development, multicultural leadership |
+| **ZeroPlastict** |Hero Volunteer (passed 1000 points) | Eco-conscious tech campaigns & awareness |
+| **GitHub** | Campus Expert Applicant | Community building through open-source |
+| **Postman** | Student Expert | Professioning API Literacy |
 
 ---
 
@@ -33,7 +34,8 @@ I believe that **purposeful technology can change lives** whether through smarte
 - 🎖️ **Python & System Administration** (*University of Moratuwa + Microsoft Learn*)
 - 📚 **LinkedIn Learning**: AI, Cloud, Soft Skills (*public speaking, programmable messaging...*)
 - 🎖️ **Cisco certified Python Data Scientist** (*Cisco Networking Academy*)
-- 🌍 GitHub Education Pack Recipient 
+- 🌍 GitHub Education Pack Recipient
+- 🎖️ **Certified Postman Student Expert**
 
 ---
 
