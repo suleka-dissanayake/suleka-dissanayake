@@ -34,6 +34,7 @@ I believe that **purposeful technology can change lives** whether through smarte
 - 🎖️ **Python & System Administration** (*University of Moratuwa + Microsoft Learn*)
 - 📚 **LinkedIn Learning**: AI, Cloud, Soft Skills (*public speaking, programmable messaging...*)
 - 🎖️ **Cisco certified Python Data Scientist** (*Cisco Networking Academy*)
+- 🎖️ **Cisco certified Ethical Hacker** (*Cisco Networking Academy*)
 - 🌍 GitHub Education Pack Recipient
 - 🎖️ **Certified Postman Student Expert Badge**
 
