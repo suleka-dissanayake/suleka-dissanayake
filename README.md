@@ -28,7 +28,7 @@ I believe that **purposeful technology can change lives** whether through smarte
 ---
 
 ## 🎓 Certifications & Achievements
-- 📚 **Obtained A B B with excellent 1.9029 z-score** (*G. C. E. A/L Examination (2023/2024) - Sri Lanka*)
+- 📚 Obtained **A B B** with excellent **1.9029** z-score and **District Rank 34th** in **Kandy District** (*G. C. E. A/L Examination (2023/2024) - Sri Lanka*)
 - 🎖️ **CEFR B2 Upper Intermediate - scored 400 out of 600** (*British Council EnglishScore*)
 - ✅ **Microsoft 365 Apps** (*Microsoft x Trainocate via Sri Lankanization*)
 - 🎖️ **Python & System Administration** (*University of Moratuwa + Microsoft Learn*)
