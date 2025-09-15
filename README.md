@@ -46,6 +46,10 @@ I believe that **purposeful technology can change lives** whether through smarte
 - 🎯 GitHub Projects (https://github.com/suleka-dissanayake)
 - 🎖️ Credly (https://www.credly.com/users/suleka-dissanayake)
 
+![Postman Student Expert](https://img.shields.io/badge/Postman-Student%20Expert-orange)
+![Cisco Ethical Hacker](https://img.shields.io/badge/Cisco-Ethical%20Hacker-blue)
+![GitHub Education Pack](https://img.shields.io/badge/GitHub-Education%20Pack-black)
+
 ---
 
 _“Think critically, lead ethically, and innovate with purpose.”_
