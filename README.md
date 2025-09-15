@@ -18,7 +18,7 @@
 | **AIESEC** | oGT (Front Office) + TM (Back Office) | Talent development, multicultural leadership |
 | **ZeroPlastic** |Hero Volunteer (passed 1000 points) | Eco-conscious tech campaigns & awareness |
 | **GitHub** | Campus Expert Applicant | Community building through open-source |
-| **Postman** | Student Expert Badge | Professioning API Literacy |
+| **Postman** | Student Expert Badge (also Student Leader Applicant)| Professioning API Literacy |
 
 ---
 
