@@ -32,18 +32,19 @@ I believe that **purposeful technology can change lives** whether through smarte
 - 🎖️ **CEFR B2 Upper Intermediate - scored 400 out of 600** (*British Council EnglishScore*)
 - ✅ **Microsoft 365 Apps** (*Microsoft x Trainocate via Sri Lankanization*)
 - 🎖️ **Python & System Administration** (*University of Moratuwa + Microsoft Learn*)
-- 📚 **LinkedIn Learning**: AI, Cloud, Soft Skills (*public speaking, programmable messaging...*)
+- 📚 **LinkedIn Learning**: AI, Cloud, API, Soft Skills (*public speaking, negotiation, programmable messaging...*)
 - 🎖️ **Cisco certified Python Data Scientist** (*Cisco Networking Academy*)
 - 🎖️ **Cisco certified Ethical Hacker** (*Cisco Networking Academy*)
 - 🌍 GitHub Education Pack Recipient
-- 🎖️ **Certified Postman Student Expert Badge**
+- 🎖️ **Certified Postman Student Expert - holding Student Expert Badge**
 
 ---
 
 ## 📫 Connect with Me
-- 💼 [LinkedIn] (https://www.linkedin.com/in/suleka-dissanayake)
-- 🎯 [GitHub Projects] (https://github.com/suleka-dissanayake)
-- 🎖️ [Credly] (https://www.credly.com/users/suleka-dissanayake)
+- 💼 LinkedIn
+(https://www.linkedin.com/in/suleka-dissanayake)
+- 🎯 GitHub Projects (https://github.com/suleka-dissanayake)
+- 🎖️ Credly (https://www.credly.com/users/suleka-dissanayake)
 
 ---
 
