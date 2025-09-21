@@ -23,7 +23,7 @@
 ---
 
 ## 🔥 What Drives Me
-I believe that **purposeful technology can change lives** whether through smarter product management, ethical AI in financial systems, or low-impact design for sustainability. I aspire to contribute to projects that blend **innovation**, **impact**, and **authenticity**.
+I think that technology for good can change lives through: Smarter product management; Ethical AI in contract and financial systems; and Low-footprint design for sustainability. I want to be part of projects that live at the intersection of **innovation, impact, and authenticity.**
 
 ---
 
