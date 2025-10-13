@@ -1,4 +1,4 @@
-# 👋 Hello there! I'm Suleka
+# 👋 Hi there! I'm Suleka
 
 🚀 I'm an outstanding **IT undergraduate at the University of Vavuniya**, driven by a passion for **AI**, **Python development**, and **data transformation**. With a certified **CEFR B2 English proficiency** from the *British Council IELTS framework*, I thrive in collaborative and global tech communities where communication is key.
 
