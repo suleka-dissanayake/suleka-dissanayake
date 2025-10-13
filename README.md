@@ -1,6 +1,6 @@
-# 👋 Hi there! I'm Suleka
+# 👋 Hello there! I'm Suleka
 
-🚀 I'm an outstanding **IT undergraduate at the University of Vavuniya**, driven by a passion for **AI**, **Python development**, and **data transformation**. With a certified **CEFR B2 English proficiency** from the *British Council IELTS framework*, I thrive in collaborative and global tech communities where communication is key.
+🚀 I am an outrageous **IT undergraduate at the University of Vavuniya**, driven by an interest for **AI**, **Python development**, and **data transformation**. With a certified **CEFR B2 English proficiency** from the *British Council IELTS framework*, I thrive in collaborative and global tech communities where communication is the key.
 
 ---
 
@@ -29,7 +29,7 @@ I believe **technology for good** can transform lives through:
 
 - 🧠 Smarter product management  
 - 🤖 Ethical AI in contract & financial systems  
-- 🌿 Low-footprint design for sustainable futures  
+- 🌿 Eco-friendly design for sustainable futures  
 
 > I’m passionate about projects that live at the intersection of **innovation, impact, and authenticity**.
 
@@ -37,8 +37,8 @@ I believe **technology for good** can transform lives through:
 
 ## 🏆 Certifications & Achievements
 
-- 🎓 **A B B**, Z-Score **1.9029**, 🏅 **34th District Rank - Kandy** (G.C.E A/L 2023/24 - 🇱🇰 Sri Lanka)
-- 🇬🇧 **CEFR B2 Upper Intermediate** – Scored 400/600 (*British Council EnglishScore*)
+- 🎓 **A B B** with Z-Score of **1.9029**, and  outstanding **34th District Rank - Kandy** (G.C.E A/L 2023/24 - Sri Lanka)
+- 🇬🇧 **CEFR B2 Upper Intermediate** – Scored 400 out of 600 (*British Council EnglishScore*)
 - 💼 **Microsoft 365 Apps** – (*Microsoft x Trainocate via Sri Lankanization*)
 - 🐍 **Python & System Administration** – (*University of Moratuwa + Microsoft Learn*)
 - 📚 **LinkedIn Learning** – AI, Cloud, API, Public Speaking, Negotiation...
@@ -51,9 +51,12 @@ I believe **technology for good** can transform lives through:
 
 ## 🔗 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/suleka-dissanayake)
-- 💻 [GitHub Projects](https://github.com/suleka-dissanayake)
-- 🏅 [Credly](https://www.credly.com/users/suleka-dissanayake)
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30)](https://www.linkedin.com/in/suleka-dissanayake)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=30)](https://github.com/suleka-dissanayake)
+[![Credly](https://img.shields.io/badge/-Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white&logoWidth=30)](https://www.credly.com/users/suleka-dissanayake)
+
 
 ---
 
