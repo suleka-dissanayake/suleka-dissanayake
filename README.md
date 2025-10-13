@@ -1,6 +1,6 @@
 # 👋 Hello there! I'm Suleka
 
-🚀 I'm an outstanding **IT undergraduate at the University of Vavuniya**, driven by a passion for **AI**, 🧠 **Python development** 🐍, and **data transformation** 📊. With a certified **CEFR B2 English proficiency** 🇬🇧 from the *British Council IELTS framework*, I thrive in collaborative and global tech communities where communication is key. 🌍
+🚀 I'm an outstanding **IT undergraduate at the University of Vavuniya**, driven by a passion for **AI**, **Python development**, and **data transformation**. With a certified **CEFR B2 English proficiency** from the *British Council IELTS framework*, I thrive in collaborative and global tech communities where communication is key.
 
 ---
 
@@ -13,7 +13,7 @@
 
 ## 🌍 My Impact Beyond the Classroom
 
-| 🌐 Organization | 💼 Role | 🎯 Focus |
+|  Organization |  Role |  Focus |
 |----------------|--------|----------|
 | **IEEE** ⚡ | Global Membership + Logistics Team (**Xtreme**) | Tech event planning, teamwork, innovation |
 | **AIESEC** 🌎 | oGT (Front Office) + TM (Back Office) | Talent development, multicultural leadership |
