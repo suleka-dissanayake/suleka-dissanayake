@@ -51,12 +51,9 @@ I believe **technology for good** can transform lives through:
 
 ## 🔗 Connect with Me
 
-## 🔗 Connect with Me
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30)](https://www.linkedin.com/in/suleka-dissanayake)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=30)](https://github.com/suleka-dissanayake)
 [![Credly](https://img.shields.io/badge/-Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white&logoWidth=30)](https://www.credly.com/users/suleka-dissanayake)
-
 
 ---
 
