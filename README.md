@@ -39,6 +39,7 @@ I believe **technology for good** can transform lives through:
 
 - 🎓 **A B B** with Z-Score of **1.9029**, and  outstanding **34th District Rank - Kandy** (G.C.E A/L 2023/24 - Sri Lanka)
 - 🇬🇧 **CEFR B2 Upper Intermediate** – 400/600 (*British Council EnglishScore*)
+- 📛 **Amazon Q Developer Training Badge** (*AWS*)
 - 💼 **Microsoft 365 Apps** – (*Microsoft x Trainocate via Sri Lankanization*)
 - 🐍 **Python & System Administration** – (*University of Moratuwa + Microsoft Learn*)
 - 📚 **LinkedIn Learning** – AI, Cloud, API, Public Speaking, Negotiation...
