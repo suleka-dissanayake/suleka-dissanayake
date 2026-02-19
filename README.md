@@ -15,7 +15,7 @@
 
 |  Organization |  Role |  Focus |
 |----------------|--------|----------|
-| **IEEE** ⚡ | Global Membership + Logistics Team (**Xtreme**) | Tech event planning, teamwork, innovation |
+| **IEEE** ⚡ | Global Membership | Tech event planning, teamwork, innovation |
 | **AIESEC** 🌎 | oGT (Front Office) + TM (Back Office) | Talent development, multicultural leadership |
 | **ZeroPlastic** 🌱 | Hero Volunteer (1000+ points) | Eco-conscious tech campaigns & awareness |
 | **GitHub** 🐙 | Campus Expert Applicant | Community building through open-source |
@@ -40,6 +40,9 @@ I believe **technology for good** can transform lives through:
 - 🎓 **A B B** with Z-Score of **1.9029**, and  outstanding **34th District Rank - Kandy** (G.C.E A/L 2023/24 - Sri Lanka)
 - 🇬🇧 **CEFR B2 Upper Intermediate** – 400/600 (*British Council EnglishScore*)
 - 📛 **Amazon Q Developer Training Badge** (*AWS*)
+- 🛡️ **ISC2 Certified CC & SSCP (Completed on Coursera)**
+- 🧪 **Microsoft Certified AI & ML Engineer (Completed on Coursera)**
+- 🧪 **ML Specialist by Deeplearning.AI (Completed on Coursera)**
 - 💼 **Microsoft 365 Apps** – (*Microsoft x Trainocate via Sri Lankanization*)
 - 🐍 **Python & System Administration** – (*University of Moratuwa + Microsoft Learn*)
 - 📚 **LinkedIn Learning** – AI, Cloud, API, Public Speaking, Negotiation...
