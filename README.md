@@ -43,6 +43,7 @@ I believe **technology for good** can transform lives through:
 - 🛡️ **ISC2 Certified CC & SSCP (Completed on Coursera)**
 - 🧪 **Microsoft Certified AI & ML Engineer (Completed on Coursera)**
 - 🧪 **ML Specialist by Deeplearning.AI (Completed on Coursera)**
+- 🤖 **IBM AI Developer (Completed on Coursera)**
 - 💼 **Microsoft 365 Apps** – (*Microsoft x Trainocate via Sri Lankanization*)
 - 🐍 **Python & System Administration** – (*University of Moratuwa + Microsoft Learn*)
 - 📚 **LinkedIn Learning** – AI, Cloud, API, Public Speaking, Negotiation...
