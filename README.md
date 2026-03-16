@@ -5,8 +5,8 @@
 ---
 
 ## 🌱 What I'm Learning
-- 🤖 Exploring **AI**, **system design**, and **emerging technologies** via **LinkedIn Learning**
-- 🏗️ Fortifying technical foundations with certifications from **University of Moratuwa** and other globally recognized platforms
+- 🤖 Exploring **AI**, **Cybersecurity**, and **Automation**
+- 🏗️ Fortifying technical foundations with certifications from both local and foreign universities and other globally recognized platforms
 - 🔄 Building **systems thinking**, **ethical design**, and **agile development** practices
 
 ---
