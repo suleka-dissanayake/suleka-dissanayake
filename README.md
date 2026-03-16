@@ -16,7 +16,7 @@
 |  Organization |  Role |  Focus |
 |----------------|--------|----------|
 | **IEEE** ⚡ | Global Membership | Tech event planning, teamwork, innovation |
-| **AIESEC** 🌎 | oGT (Front Office) + TM (Back Office) | Talent development, multicultural leadership |
+| **AIESEC** 🌎 | oGV (Front Office) + PD/Finance (Back Office) | Volunteering, multicultural leadership |
 | **ZeroPlastic** 🌱 | Hero Volunteer (1000+ points) | Eco-conscious tech campaigns & awareness |
 | **GitHub** 🐙 | Campus Expert Applicant | Community building through open-source |
 | **Postman** 📬 | Student Expert Badge + Leader Applicant | Advocating API literacy & collaboration |
