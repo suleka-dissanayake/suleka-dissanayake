@@ -1,11 +1,11 @@
 # 👋 Hello there! I'm Suleka
 
-🚀 I am an outrageous **IT undergraduate at the University of Vavuniya**, driven by an interest for **AI**, **Python development**, and **data transformation**. With a certified **CEFR B2 English proficiency** from the *British Council IELTS framework*, I thrive in collaborative and global tech communities where communication is the key.
+🚀 I am an outrageous **IT undergraduate at the University of Vavuniya**, driven by an interest for **AI**, **DevOps**, and **Cybersecurity**. With a certified **CEFR B2 English proficiency** from the *British Council IELTS framework*, I thrive in collaborative and global tech communities where communication is the key.
 
 ---
 
 ## 🌱 What I'm Learning
-- 🤖 Exploring **AI**, **Cybersecurity**, and **Automation**
+- 🤖 Exploring **AI**, **Cybersecurity**, and **DevSecOps**
 - 🏗️ Fortifying technical foundations with certifications from both local and foreign universities and other globally recognized platforms
 - 🔄 Building **systems thinking**, **ethical design**, and **agile development** practices
 
