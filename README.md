@@ -14,21 +14,39 @@
 ### 🛠️ Technical Stack & Tooling
 
 **Languages & Core:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="44" height="44" title="Python"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="44" height="44" title="Java"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="44" height="44" title="C++"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="44" height="44" title="JavaScript"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="SQL" width="44" height="44" title="SQL"/>
+</p>
+
+<br/>
 
 **Frameworks & Platforms:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="44" height="44" title="React"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="44" height="44" title="Node.js"/>
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="44" height="44" title="Postman"/>
+</p>
+
+<br/>
 
 **Systems, Security & DevOps:**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="44" height="44" title="Linux"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="44" height="44" title="Git"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="44" height="44" title="Bash"/>
+</p>
 
 ---
 
@@ -65,9 +83,31 @@
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suleka-dissanayake)
-[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/suleka-dissanayake)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sulekadissanayake2003@gmail.com)
+<table border="0">
+  <tr>
+    <td align="center" width="120">
+      <a href="https://www.linkedin.com/in/suleka-dissanayake" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="44" height="44"/>
+      </a>
+      <br />
+      <b>LinkedIn</b>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.credly.com/users/suleka-dissanayake" target="_blank">
+        <img src="https://cdn.simpleicons.org/credly/FF6B00" alt="Credly" width="44" height="44"/>
+      </a>
+      <br />
+      <b>Credly</b>
+    </td>
+    <td align="center" width="120">
+      <a href="mailto:sulekadissanayake2003@gmail.com">
+        <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="44" height="44"/>
+      </a>
+      <br />
+      <b>Gmail</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
