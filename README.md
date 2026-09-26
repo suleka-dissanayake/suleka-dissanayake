@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Suleka Dissanayake
+# 👋 Hi, I'm Suleka!
 
 **IT Undergraduate** at the **University of Vavuniya**, focusing on **DevSecOps**, **Applied Artificial Intelligence**, and **Cybersecurity**. Passionate about designing resilient systems, automating workflows, and building ethical, scalable technology.
 
