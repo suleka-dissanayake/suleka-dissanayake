@@ -11,6 +11,17 @@
 
 ---
 
+## Languages
+
+- Python
+- Java
+- C++
+- JavaScript
+- SQL
+- React
+
+---
+
 ## 🌍 My Impact Beyond the Classroom
 
 |  Organization |  Role |  Focus |
