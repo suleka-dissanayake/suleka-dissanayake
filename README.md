@@ -52,7 +52,7 @@
 
 ### 📜 Verified Credentials & Certifications
 
-- Obtained **1.9029** Z-Score for G.C.E. A/L Examination (2023/2024) in **Engineering Technology** stream with **ABB** (Sri Lanka).
+- Obtained **1.9029** Z-Score and a **Gold Medal** for G.C.E. A/L Examination (2023/2024) in **Engineering Technology** stream with **ABB** (Sri Lanka).
 
 #### 🛡️ Cybersecurity & Networking
 - **Certified in Cybersecurity (CC) & SSCP Track** – ISC2 *(via Coursera)*
