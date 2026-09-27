@@ -65,7 +65,7 @@
 
 #### ⚙️ Developer Tools & Systems
 - **Postman Student Expert** – Postman
-- **Python & System Administration** – University of Moratuwa
+- **Python, FrontEnd, BackEnd Web Development** – University of Moratuwa
 - **CEFR B2 Upper Intermediate (English)** – British Council EnglishScore
 
 ---
