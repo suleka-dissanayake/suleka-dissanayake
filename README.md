@@ -2,13 +2,13 @@
 
 ###
 
-**IT Undergraduate** at the **University of Vavuniya**, focusing on **DevSecOps**, **Applied Artificial Intelligence**, and **Cybersecurity**. Passionate about designing resilient systems, automating workflows, and building ethical, scalable technology.
+**I'm an IT Undergraduate** at the **University of Vavuniya**, focusing on **DevSecOps**, **Artificial Intelligence**, and **Cybersecurity**. Passionate about designing IoT systems, vehicular technologies, automating workflows, and building ethical, scalable technology.
 
 ---
 
 ### 🔭 Current Focus & Initiatives
-- 🛡️ Developing skills in **DevSecOps workflows**, **CI/CD pipeline security**, and **Cloud Infrastructure**.
-- 🤖 Building applied **AI & Machine Learning pipelines** with Python.
+- 🛡️ Developing skills in **DevSecOps**, **Vehicular Technologies**, **CI/CD pipeline security**, and **Cloud Infrastructure**.
+- 🤖 Building **AI & Machine Learning pipelines** with Python.
 - 🌐 Active in developer ecosystems: Advocating for API literacy via **Postman** and open-source collaboration through **IEEE** & **AIESEC**.
 
 ---
@@ -63,11 +63,11 @@
 #### 🤖 AI & Machine Learning
 - **IBM AI Developer Professional Certificate** – IBM
 - **Machine Learning Specialization** – DeepLearning.AI
-- **Python Data Scientist Track** – Cisco Networking Academy
+- **Python Data Scientist** – Cisco Networking Academy
 
 #### ⚙️ Developer Tools & Systems
 - **Postman Student Expert** – Postman
-- **Python, FrontEnd, BackEnd Web Development** – University of Moratuwa
+- **Python, FrontEnd, Server-Side Web Development** – University of Moratuwa
 - **CEFR B2 Upper Intermediate (English)** – British Council EnglishScore
 
 ---
