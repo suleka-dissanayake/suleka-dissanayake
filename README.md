@@ -76,10 +76,9 @@
 
 | Organization | Role / Capacity | Key Focus |
 | :--- | :--- | :--- |
-| **IEEE Student Branch** | Active Member | Technical workshops, hackathons, and research initiatives |
+| **IEEE** | Active Member | Technical workshops, hackathons, and research initiatives |
 | **AIESEC** | oGT (Front Office) / Finance (Back Office) | Cross-cultural exchange, finance workflows, and operations |
-| **Postman Community** | Certified Student Expert | Conducting API literacy and testing awareness sessions |
-| **ZeroPlastic Movement** | Hero Volunteer (1000+ pts) | Leading sustainable, eco-conscious tech awareness initiatives |
+| **Postman** | Certified Student Expert | Conducting API literacy and testing awareness sessions |
 
 ---
 
